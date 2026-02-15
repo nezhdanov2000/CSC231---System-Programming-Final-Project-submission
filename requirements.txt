@@ -1,0 +1,8 @@
+# Recommended known-good stack for Windows/Linux desktop pose estimation
+# Best Python version: 3.10 (3.9-3.11 are usually fine; avoid 3.12+ for mediapipe)
+mediapipe==0.10.14
+opencv-python==4.8.1.78
+numpy==1.26.4
+protobuf==4.25.3
+absl-py==2.1.0
+tensorflow==2.15.0
